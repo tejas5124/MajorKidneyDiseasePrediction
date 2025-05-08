@@ -1,7 +1,5 @@
 # Kidney Disease Prediction System
 
-![Kidney Logo](front/src/assets/kidneylogo.jpg)
-
 A web application that predicts kidney disease risk using machine learning and displays nearby hospitals for treatment.
 
 ## Features
@@ -30,22 +28,39 @@ A web application that predicts kidney disease risk using machine learning and d
 ## Project Structure
 
 PROJECT_FINAL/
+
 ├── back/ # Backend code
+
 │ ├── static/ # Static files
+
 │ ├── venv/ # Python virtual environment
+
 │ ├── app.py # Flask/FastAPI application
+
 │ ├── model.h5 # Trained ML model
+
 │ ├── model.pkl # Serialized model
+
 │ └── requirements.txt # Python dependencies
+
 │
+
 ├── front/ # Frontend code
+
 │ ├── node_modules/ # NPM packages
+
 │ ├── src/
+
 │ │ ├── assets/ # Images and logos
+
 │ │ ├── components/ # React components
+
 │ │ ├── pages/ # Page components
+
 │ │ └── styles/ # CSS files
+
 │ └── package.json # Frontend dependencies
+
 └── README.md # This file
 
 

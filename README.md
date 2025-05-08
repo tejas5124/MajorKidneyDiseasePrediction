@@ -70,29 +70,32 @@ PROJECT_FINAL/
 ### Backend Setup
 
 1. Create virtual environment:
-   ```bash
+   
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   
 Install dependencies:
 
-bash
+
 pip install -r requirements.txt
 Run the server:
 
-bash
+
 python app.py
 Frontend Setup
 Install Node.js dependencies:
 
-bash
+
 cd front
 npm install
 Start development server:
 
-bash
+
 npm start
 
+
 API Endpoints
+
 POST /predict - Submit health parameters for prediction
 
 GET /hospitals - Retrieve list of kidney treatment centers
@@ -100,7 +103,16 @@ GET /hospitals - Retrieve list of kidney treatment centers
 POST /admin/update-model - Update ML model (admin only)
 
 Contributors
+
 Tejas Gophane
+
 Vedant Pawar
+
 Sakshi Aher
+
 Swarup Divekar
+
+Guided By :
+
+Anita Shingade Mam
+

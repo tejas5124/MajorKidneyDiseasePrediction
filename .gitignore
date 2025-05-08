@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+
+# Model files (if they're large)
+model.h5
+model.pkl
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/

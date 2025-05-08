@@ -1,0 +1,22 @@
+.admin-panel {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .admin-panel table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+  }
+  
+  .admin-panel th,
+  .admin-panel td {
+    border: 1px solid #ccc;
+    padding: 0.6rem;
+    text-align: center;
+  }
+  
+  .admin-panel h3 {
+    margin-top: 2rem;
+  }
+  

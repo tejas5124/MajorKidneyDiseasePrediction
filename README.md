@@ -1,4 +1,4 @@
-# Kidney Disease Prediction System
+# Location-Aware Deep Learning-Based Multi-Model Approach for Accurate Classification of Kidney Disorders Using CT Scan images.
 
 A web application that predicts kidney disease risk using machine learning and displays nearby hospitals for treatment.
 

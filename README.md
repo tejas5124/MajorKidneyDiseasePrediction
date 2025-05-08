@@ -94,7 +94,7 @@ Start development server:
 npm start
 
 
-API Endpoints
+**API Endpoints**
 
 POST /predict - Submit health parameters for prediction
 
@@ -102,17 +102,17 @@ GET /hospitals - Retrieve list of kidney treatment centers
 
 POST /admin/update-model - Update ML model (admin only)
 
-Contributors
+**Contributors**
 
-Tejas Gophane
+**Tejas Gophane
 
 Vedant Pawar
 
 Sakshi Aher
 
-Swarup Divekar
+Swarup Divekar**
 
-Guided By :
+**Guided By :**
 
-Anita Shingade Mam
+**Anita Shingade Mam**
 

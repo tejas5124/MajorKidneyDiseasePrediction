@@ -69,10 +69,11 @@ PROJECT_FINAL/
 
 ### Backend Setup
 
-1. Create virtual environment:
-   
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+Create virtual environment:
+
+python -m venv venv
+source venv/bin/activate
+On Windows use `venv\Scripts\activate`
    
 Install dependencies:
 
@@ -104,13 +105,13 @@ POST /admin/update-model - Update ML model (admin only)
 
 **Contributors**
 
-**Tejas Gophane
+Tejas Gophane
 
 Vedant Pawar
 
 Sakshi Aher
 
-Swarup Divekar**
+Swarup Divekar
 
 **Guided By :**
 
